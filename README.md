@@ -9,3 +9,6 @@
 6. Gemini Code Assist
 7. Context7
 8. Cline
+9. 
+
+MCP - Sequential Thinking, Memory, Gemini 3
