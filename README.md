@@ -1,5 +1,7 @@
 # AI Tools
 
+Build out Bedrock client
+
 ## Just some useful stuff
 1. Google Antigravity
 2. Claude Code
