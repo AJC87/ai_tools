@@ -20,5 +20,9 @@ Build out Bedrock client
 15. LlamaIndex
 16. Ragas
 17. MLflow
+18. LangSmith
+19. LangGraph
+20. Ollama
+21. Nano Banana
 
 MCP - Sequential Thinking, Memory, Gemini 3
